@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={{paddingTop: 20, paddingHorizontal: 25}}>
       <Text>HOLA CODER!</Text>
-      <text>CHAU</text>
+      <Text>CHAU</Text>
       <StatusBar style="auto" />
     </View>
   );
